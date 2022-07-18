@@ -3,7 +3,12 @@
 
 ## About the project
 
-Spoint is a geographical educational app, where users can learn and play in the same time. While exploring the Street View map, the user should guess the location, by marking on another map. 
+Spoint is an interactive online game that uses google maps to challenge the user to guess random locations on earth.
+<br>
+The idea was that we can help people improve their geographic skills while they have some fun.
+The game beggins by 'dropping' the player in an unknown location on google street view. The player can roam free
+searching for clues (landmarks, street signs, buildings, etc.) to guess the location. At the same time a google world map is 
+present in the corner of the screen where the player can mark their guess.
 
 ## Features
 
